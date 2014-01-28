@@ -1,0 +1,12 @@
+{
+	"author": "Juan La Jara",
+	"name": "hoodie-angular",
+	"description": "hoodie angular adapter",
+	"version": "0.0.1",
+	"homepage": "https://github.com/wixo/hoodie-angular",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/wixo/hoodie-angular"
+		},
+		"main": "./hoodie-angular"
+}
